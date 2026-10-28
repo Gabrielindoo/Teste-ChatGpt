@@ -1,0 +1,1 @@
+Use esta pasta para arquivos importados diretamente pelos componentes. As imagens SVG e páginas conceito entregues ficam em public/images e public/concepts. As fontes são empacotadas localmente por @fontsource; o site não faz solicitações ao Google Fonts.
